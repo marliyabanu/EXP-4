@@ -46,6 +46,18 @@ TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
+<img width="1334" height="1573" alt="image" src="https://github.com/user-attachments/assets/99ec6508-d540-4726-8a19-ac9364090f55" />
+<img width="1310" height="1600" alt="image" src="https://github.com/user-attachments/assets/697f55f6-b596-463e-8785-ad22e1aa181c" />
+<img width="1333" height="1600" alt="image" src="https://github.com/user-attachments/assets/c5dd98f2-aa8b-4450-8a80-fcca01c9619e" />
+<img width="1374" height="1600" alt="image" src="https://github.com/user-attachments/assets/af1fa696-01c9-4d40-a907-43dba90cb415" />
+<img width="1326" height="1599" alt="image" src="https://github.com/user-attachments/assets/b00f3268-69db-4928-b285-f200472cafff" />
+<img width="1254" height="1600" alt="image" src="https://github.com/user-attachments/assets/346e659e-1b86-462e-b5b5-3102217c5d09" />
+<img width="1366" height="1600" alt="image" src="https://github.com/user-attachments/assets/54e6ef2e-1ff2-47cf-84f7-92a729e25171" />
+<img width="1326" height="1599" alt="image" src="https://github.com/user-attachments/assets/2dd60aef-11dd-4e1f-8066-48373add2877" />
+<img width="1330" height="1600" alt="image" src="https://github.com/user-attachments/assets/58591315-2909-4b16-924a-bce3d021437a" />
+
+<img width="1417" height="1599" alt="image" src="https://github.com/user-attachments/assets/07917252-08f2-415a-bf82-3c8e0fc9d7fc" />
+<img width="1437" height="1600" alt="image" src="https://github.com/user-attachments/assets/9eb3391f-863f-43bb-b2b4-0920f42101f2" />
 
 
 RESULT:
